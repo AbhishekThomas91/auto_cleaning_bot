@@ -1,0 +1,7 @@
+*.bin
+*.elf
+*.hex
+.DS_Store
+__pycache__/
+.vscode/
+build/
